@@ -19,3 +19,5 @@ O projeto foi desenvolvido com HTML5 e CSS3, seguindo boas práticas de organiza
 **✨ APRENDIZADOS**
 
 Este projeto reforçou a importância de decisões visuais alinhadas às necessidades do usuário e destacou como detalhes de design impactam diretamente a experiência final, tornando a interface eficiente, acessível e agradável.
+
+![Preview da Página de Login Desenvolvida](./preview.png)
